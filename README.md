@@ -4,6 +4,8 @@ This document explains **end-to-end steps** to deploy a AI_Powered Node.js (Expr
 
 server demo - go to repo -> assets-> download 2 mp4 videos to see the working flow of the server
 
+Elastic ip- http://54.83.237.200:5050
+
 ## 1. Create Ubuntu EC2 Instance
 
 1. Login to **AWS Management Console**
