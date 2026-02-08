@@ -2,9 +2,14 @@
 
 This document explains **end-to-end steps** to deploy a AI_Powered Node.js (Express) server with a simple HTML/CSS UI on **AWS EC2 (Ubuntu)**, assign an **Elastic IP**, and keep the server running permanently using **PM2**.
 
-server demo - go to repo -> assets-> download 2 mp4 videos to see the working flow of the server
+server demo - go to repo -> assets-> download 2 mp4 videos to see the working flow of the server.
 
 Elastic ip- http://54.83.237.200:5050
+If you click on the link it does not leads you server url or anything it is the elastic ip of ubuntu instance created on AWS EC2.
+
+If you want to see how the server works follow the steps of line no 5.
+
+Steps to create the project given below ⬇️
 
 ## 1. Create Ubuntu EC2 Instance
 
